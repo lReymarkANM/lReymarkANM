@@ -6,7 +6,7 @@
 
 I am Reymark Pedillaga, people call me Esse, currently pursuing my Bachelor's Degree majoring in Information Technology from [Asia Pacific College](https://www.apc.edu.ph). I am a tech enthusiast & an open source advocate. I am always open to designing and criticizing on projects and innovative/Unique ideas.
 
-* ✍You can Find my projects here [ANM Portfolio](https://reymarkanm.netlify.app/)
+* ✍You can Find my projects here [My Portfolio](https://reymarkanm.netlify.app/)
 * 💬 I'm passionate about Designing and Developing Websites, Discord Bot Developer , and Currently learning Developing Computer Programs
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I speak 2 languages ( English, Tagalog )
